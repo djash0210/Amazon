@@ -47,6 +47,7 @@ public class APay {
 	public void clickElectricity() 
 	{
 		electricity.click();
+		System.out.println("Electrivity Page");
 	}
 	
 	public void clickDTHRecharge() 
